@@ -1,0 +1,19 @@
+body {
+  background-color: #eee;
+}
+
+.contactContainer {
+  border: 1px solid #aaa;
+  width: 300px;
+  height: 130px;
+  background-color: #fff;
+  float: left;
+  margin: 5px;
+}
+.contactContainer img {
+  float: left;
+  margin: 10px;
+}
+.contactContainer ul {
+  list-style-type: none;
+}
